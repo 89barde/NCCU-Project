@@ -23,4 +23,5 @@ clone網址: https://github.com/squirrelnrosie/NCCU-Project.git
   
 Step.3  
 安裝所需套件  
-cmd下指令: pip install -r requirements.txt  
+- cd 至 requirement.txt所在位置(NCCU-Project)  
+- cmd下指令: pip install -r requirements.txt  
