@@ -13,6 +13,7 @@ UserName: root
 Password: 1234  
 (照這個設定才不需改Django project裡的settings)  
   
+  
 -- 從git上clone程式碼  
 Step.1  
 新建虛擬環境 & 切換至虛擬環境  
